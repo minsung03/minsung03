@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-### 🏀 A developer who likes basketball
+### 🏀 A WEB FRONT-END Developer Who likes Basketball
 
 ![minsung03 github stats](https://github-readme-stats.vercel.app/api?username=minsung03&show_icons=true&theme=radical)
 
