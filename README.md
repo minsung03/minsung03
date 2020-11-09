@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 ### This is My Stats!
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=minsung03&show_icons=true&theme=radical)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=minsung03)](https://solved.ac/minsung03)
