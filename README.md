@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 ### This is My Stats!
 
 ![minsung03 github stats](https://github-readme-stats.vercel.app/api?username=minsung03&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minsung03&layout=compact)](https://github.com/minsung03/github-readme-stats)
