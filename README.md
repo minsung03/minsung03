@@ -14,8 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### This is My Stats!
+
+This is my github stats!
 
 ![minsung03 github stats](https://github-readme-stats.vercel.app/api?username=minsung03&show_icons=true&theme=radical)
+
+### My Launguage stats!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minsung03&layout=compact)](https://github.com/minsung03/github-readme-stats)
