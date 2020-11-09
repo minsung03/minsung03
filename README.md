@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 ### This is My Stats!
 
-![minsung03 github stats](https://github-readme-stats.vercel.app/api?username=minsung03&show_icons=true)
+![minsung03 github stats](https://github-readme-stats.vercel.app/api?username=minsung03&show_icons=true&theme=radical)
