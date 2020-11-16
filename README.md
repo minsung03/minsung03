@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 
 ![minsung03 github stats](https://github-readme-stats.vercel.app/api?username=minsung03&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minsung03&layout=compact)](https://github.com/minsung03/github-readme-stats)
 
 <img src="https://img.shields.io/github/followers/minsung03?style=social"> <a href="https://instagram.com/min_sung_2003">
     <img 
