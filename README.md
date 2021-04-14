@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minsung03&layout=compact)](https://github.com/minsung03/github-readme-stats)
 
-<img src="https://img.shields.io/github/followers/joongdaemin?style=social"> <a href="https://instagram.com/joongdaemin">
+<img src="https://img.shields.io/github/followers/minsung03?style=social"> <a href="https://instagram.com/joongdaemin">
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/joongdaemin/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
